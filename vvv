@@ -1,0 +1,9 @@
+1-  pkg install git -y
+
+2-  pkg install python -y 
+
+3-  git clone https://github.com/TheSpeedX/TBomb.git
+
+4-  cdTBomb
+
+5-  ./TBomb.sh
